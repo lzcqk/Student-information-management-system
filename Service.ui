@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Service</class>
+ <widget class="QWidget" name="Service">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>301</height>
+   </rect>
+  </property>
+  <property name="sizePolicy">
+   <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+    <horstretch>0</horstretch>
+    <verstretch>0</verstretch>
+   </sizepolicy>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>400</width>
+    <height>301</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>400</width>
+    <height>301</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>服务协议和隐私政策</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="res.qrc">
+    <normaloff>:/my_app_ico.ico</normaloff>:/my_app_ico.ico</iconset>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="QLabel" name="label">
+     <property name="font">
+      <font>
+       <family>华文细黑</family>
+      </font>
+     </property>
+     <property name="text">
+      <string>欢迎访问学生管理信息系统。</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="label_2">
+     <property name="font">
+      <font>
+       <family>华文细黑</family>
+      </font>
+     </property>
+     <property name="text">
+      <string>在注册学生管理信息系统或使用学生管理信息系统之前，</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="label_3">
+     <property name="font">
+      <font>
+       <family>华文细黑</family>
+      </font>
+     </property>
+     <property name="text">
+      <string>请务必审慎阅读、充分理解本用户协议（下称“本服务条</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="label_4">
+     <property name="font">
+      <font>
+       <family>华文细黑</family>
+      </font>
+     </property>
+     <property name="text">
+      <string>款”）、隐私政策、诚信守则和Cookie政策的内容，特</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="label_5">
+     <property name="font">
+      <font>
+       <family>华文细黑</family>
+      </font>
+     </property>
+     <property name="text">
+      <string>别是免除或限制责任的条款，限制、免责条款可能以黑</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="label_6">
+     <property name="font">
+      <font>
+       <family>华文细黑</family>
+      </font>
+     </property>
+     <property name="text">
+      <string>体加粗形式提示您注意。</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="label_7">
+     <property name="font">
+      <font>
+       <family>华文细黑</family>
+      </font>
+     </property>
+     <property name="text">
+      <string>本服务条款、隐私政策、诚信守则是您与学生管理信息系</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="label_8">
+     <property name="font">
+      <font>
+       <family>华文细黑</family>
+      </font>
+     </property>
+     <property name="text">
+      <string>统之间的协议（下称“本协议”）。不论您是否为注册</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="label_9">
+     <property name="font">
+      <font>
+       <family>华文细黑</family>
+      </font>
+     </property>
+     <property name="text">
+      <string>用户，您使用本产品软件即视为您已阅读并同意接受本</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="label_10">
+     <property name="font">
+      <font>
+       <family>华文细黑</family>
+      </font>
+     </property>
+     <property name="text">
+      <string>协议的约束。如果您不希望受本协议条款的约束，我们</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="label_11">
+     <property name="font">
+      <font>
+       <family>华文细黑</family>
+      </font>
+     </property>
+     <property name="text">
+      <string>将无法为您提供服务。</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="label_12">
+     <property name="font">
+      <font>
+       <family>华文细黑</family>
+      </font>
+     </property>
+     <property name="text">
+      <string>如果您未满 18 周岁，请在法定监护人的监护、指导下</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="label_13">
+     <property name="font">
+      <font>
+       <family>华文细黑</family>
+      </font>
+     </property>
+     <property name="text">
+      <string>阅读本协议和使用本产品。</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources>
+  <include location="res.qrc"/>
+ </resources>
+ <connections/>
+</ui>

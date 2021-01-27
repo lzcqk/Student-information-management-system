@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>user_face-.ico</file>
+        <file>my_app_ico.ico</file>
+        <file>white.png</file>
+    </qresource>
+</RCC>
